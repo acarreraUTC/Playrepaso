@@ -1,0 +1,7 @@
+New log file opened at Sat Nov 12 16:47:51 COT 2016 by 1684@DESKTOP-GTDL5IE
+Taking next connection to: 53666
+New client attempting to connect on port: 53667-53666
+  Address = /192.168.0.4:53666
+This client on port 53667 has uuid b6e33475-0072-42c5-873e-efc97a5550dd configName activator humanReadableName Activator protocolVersion 3 featureTags Vector()
+Connected Clients: activator-b6e33475-0072-42c5-873e-efc97a5550dd
+Taking next connection to: 53666
